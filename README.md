@@ -1,5 +1,7 @@
 MedChatbot: Your AI-Powered Medical Information Assistant
+
 ⚕️ Project Overview
+
 MedChatbot is an intelligent conversational AI designed to provide reliable, general information regarding medical conditions, symptoms, and basic health queries. Built using large language models, this tool serves as a preliminary information resource, helping users understand common health topics and directing them toward appropriate next steps (like consulting a professional).
 
 🚨 IMPORTANT DISCLAIMER: MedChatbot is an informational tool only and is NOT a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified health provider with any questions you may have regarding a medical condition.
