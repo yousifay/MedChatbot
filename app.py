@@ -1,6 +1,3 @@
-# -----------------------------------------------------
-# app.py: RAG Chatbot for Hugging Face Spaces (Revised)
-# -----------------------------------------------------
 
 # Install required packages (done in environment setup)
 # !pip install faiss-cpu transformers torch gradio accelerate bitsandbytes tiktoken -q
@@ -15,7 +12,7 @@ from transformers import (
     AutoModelForCausalLM,
     pipeline,
     BitsAndBytesConfig, # Import for 4-bit quantization
-    # Removed LlamaTokenizer import as we are moving to AutoTokenizer for the new model
+    
 )
 import gradio as gr
 
